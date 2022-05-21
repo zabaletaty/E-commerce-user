@@ -1,0 +1,29 @@
+.encabezado{
+    background-color: aqua;
+    width: 100%;
+    height: 200px;
+}
+
+.carrito-p{
+    background-color: #fff;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center; 
+    padding-left: 30px;
+    justify-content: end;
+}
+.carrito-p p{
+    margin-top: 0; 
+    margin-bottom: 0;
+
+    justify-content: center;
+}
+
+.carrito{
+    padding-right: 15px;
+}
+
+
+
+
